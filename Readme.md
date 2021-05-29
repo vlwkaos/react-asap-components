@@ -1,3 +1,7 @@
+# ASAP 컴포넌트 라이브러리
+
+빠르게 개발하기 위한 각종 Element, Component, Container 등을 구현해놓는 것이 목표
+
 ## 실행 방법
 
 `npm i`
